@@ -1,6 +1,5 @@
 |Nick Name|ID(Github Link Address)|
 |-|-|
-|Danny Toeun Kim|[kimdanny](https://github.com/kimdanny)|
 |Heesung|[heesung84](https://github.com/heesung84)|
 |Daniel Park|[natpt](https://github.com/natpt)|
 |Juhyun Song|[izen1231](https://github.com/izen1231)|
@@ -491,4 +490,19 @@
 |Jungwon Seong|[yoeubi](https://github.com/yoeubi)|
 |Hayoung Lee|[luvehayoung](https://github.com/luvehayoung)
 |Gaon Choi|[gaon-choi](https://github.com/Gaon-Choi)|
-|Dongwon Paek|[underflow101](https://github.com/underflow101)|
+|Donghun Kim|[night9134](https://github.com/night9134)|
+|Gio Paik|[skyil7](https://github.com/skyil7)|
+|Harim Kang|[harimkang](https://github.com/harimkang)|
+|Inho Kim|[hummingbird-12](https://github.com/hummingbird-12)|
+|Wansoo Kim|[marload](https://github.com/marload)|
+|Danny Toeun Kim|[kimdanny](https://github.com/kimdanny)|
+|Hyeonwoo Park|[nono5546](https://github.com/nono5546)|
+|Haechan Lim|[Backchidacurry](https://github.com/Backchidacurry)|
+|Donghoon Kwak|[kionias](https://github.com/kionias)|
+|Covenant|[KoEonYack](https://github.com/koeonyack)|
+|Kiwook|[zldlgl](https://github.com/zldlgl)|
+|Bong K|[KimBongNam](https://github.com/KimBongNam)|
+|DoHyeok Yang|[mizm](https://github.com/mizm)|
+|jehunseo|[jehunseo](https://github.com/jehunseo)|
+|Chanmin Kim|[C17AN](https://github.com/C17AN)|
+|TaeIn Song|[stist1111](https://github.com/stist1111)|
